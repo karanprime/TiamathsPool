@@ -1,4 +1,4 @@
-# TiamathsPool
+# Tiamath's Swimming Pool
 Predicting Chaos using Reservoir Computing
 
 > *"Chaos: When the present determines the future, but the approximate present does not approximately determine the future."* - Edward Lorrez
@@ -13,3 +13,6 @@ Current ToDos:
 * Discuss/Conclude results
 * Clean code and open source it
 * References
+
+### Title
+Tiamath is the Babylonian Goddess of Chaos and Water. Seemed apt for a project studying chaos using reservoir computing.
